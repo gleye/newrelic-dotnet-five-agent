@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QvdbcOX/vzgVkUpOB/uWBPeB0ZneOuAjp9HMyglfHTYQcEx4nxyDYoAZLePAwCGh30YBkctf8f0dPMkU2NgUfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GOLEY\\source\\repos\\WORKSHOP\\newrelic-dotnet-five-agent\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GOLEY\\.nuget\\packages\\newrelic.agent\\9.5.1\\newrelic.agent.9.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
